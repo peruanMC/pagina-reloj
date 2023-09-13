@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #112d70;
+}
+
+.reloj-container {
+    text-align: center;
+}
+
+#reloj {
+    font-size: 3rem;
+}
+
+#temporizador-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+#cambiar-zona-btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#reloj-analogico-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
